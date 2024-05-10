@@ -66,8 +66,8 @@ public class Panel extends java.awt.Panel implements Runnable {
 
         // Images des serveurs
         try {
-            serverImage = ImageIO.read(new File("F:\\ITU\\S4\\Tsinjo(TP)\\Algo\\Dikjstra\\Dikjstra1.1\\img\\server.png"));
-            visitedImage = ImageIO.read(new File("F:\\ITU\\S4\\Tsinjo(TP)\\Algo\\Dikjstra\\Dikjstra1.1\\img\\visited.png"));
+            serverImage = ImageIO.read(new File("img\\server.png"));
+            visitedImage = ImageIO.read(new File("img\\visited.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
