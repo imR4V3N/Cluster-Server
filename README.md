@@ -1,11 +1,12 @@
-
 # Cluster
 
-Le projet Java consiste en une application qui utilise l'algorithme de Dijkstra ou le parcours en largeur pour trouver le site le plus proche à partir d'un serveur. Voici une description courte des principales fonctionnalités :
+The Java project consists of an application that uses Dijkstra's algorithm or breadth traversal to find the nearest site from a server. Here is a short description of the main features :
 
-1. **Recherche de site le plus proche** : L'application permet à l'utilisateur de spécifier sa position actuelle ou de la récupérer automatiquement, puis utilise l'algorithme de Dijkstra ou le parcours en largeur pour trouver le site le plus proche à partir d'une liste de sites stockés sur un serveur.
-2. **Utilisation de l'algorithme de Dijkstra ou du parcours en largeur** : L'application offre la possibilité de choisir entre l'algorithme de Dijkstra, idéal pour les graphes pondérés, ou le parcours en largeur, adapté aux graphes non pondérés, pour calculer le chemin le plus court vers le site le plus proche.
-3. **Affichage Swing** : Les résultats de la recherche sont affichés à l'utilisateur à l'aide d'une interface graphique Swing conviviale. Cette interface présente le chemin le plus court vers le site le plus proche.
-4. **Interactions conviviales** : L'interface utilisateur permet à l'utilisateur de saisir sa position, de sélectionner l'algorithme à utiliser, et fournit des retours visuels clairs sur le résultat de la recherche.
+1. **Nearest site search** : The application allows the user to specify their current location or retrieve it automatically, then uses Dijkstra's algorithm or breadth traversal to find the nearest site from a list of sites stored on a server .
+2. **Using Dijkstra's algorithm or breadth traversal** : The application offers the possibility to choose between the Dijkstra algorithm, ideal for weighted graphs, or the width traversal, suitable for unweighted graphs, to calculate the shortest path to the nearest site.
+3. **Swing Display** : Search results are displayed to the user using a user-friendly Swing GUI. This interface presents the shortest path to the nearest site.
+4. **Friendly interactions** : The user interface allows the user to enter their location, select the algorithm to use, and provides clear visual feedback on the search result.
 
-En résumé, ce projet Java combine la puissance des algorithmes de recherche de chemins avec une interface utilisateur graphique conviviale pour aider les utilisateurs à trouver efficacement le site le plus proche à partir d'un serveur.
+In summary, this Java project combines the power of path finding algorithms with a friendly graphical user interface to help users efficiently find the nearest site from a server.
+
+The project was developed on visual studio code using the Java 17 language and swingx-all librairie
