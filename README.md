@@ -9,4 +9,4 @@ The Java project consists of an application that uses Dijkstra's algorithm or br
 
 In summary, this Java project combines the power of path finding algorithms with a friendly graphical user interface to help users efficiently find the nearest site from a server.
 
-The project was developed on visual studio code using the Java 17 language and swingx-all librairie
+The project was developed on visual studio code using the Java 17 language and swingx-all librairie [SwingX-all.jar](https://jar-download.com/artifacts/org.swinglabs.swingx/swingx-all/1.6.4/source-code)
