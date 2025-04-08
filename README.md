@@ -1,4 +1,4 @@
-# Cluster
+# Network Simulator
 
 The Java project consists of an application that uses Dijkstra's algorithm or breadth traversal to find the nearest site from a server. Here is a short description of the main features :
 
